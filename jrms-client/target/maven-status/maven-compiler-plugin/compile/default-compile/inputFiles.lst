@@ -1,0 +1,5 @@
+/DATA/Server/JProjects/jrms-root/jrms-client/src/main/java/com/thieule/config/CustomHttpServletRequest.java
+/DATA/Server/JProjects/jrms-root/jrms-client/src/main/java/com/thieule/config/UiApplication.java
+/DATA/Server/JProjects/jrms-root/jrms-client/src/main/java/com/thieule/config/CustomPostZuulFilter.java
+/DATA/Server/JProjects/jrms-root/jrms-client/src/main/java/com/thieule/config/UiWebConfig.java
+/DATA/Server/JProjects/jrms-root/jrms-client/src/main/java/com/thieule/config/CustomPreZuulFilter.java

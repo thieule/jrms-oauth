@@ -1,0 +1,10 @@
+com/thieule/config/MethodSecurityConfig.class
+com/thieule/web/controller/BarController.class
+com/thieule/config/ResourceServerApplication.class
+com/thieule/web/controller/UserController.class
+com/thieule/config/CorsFilter.class
+com/thieule/config/OAuth2ResourceServerConfig.class
+com/thieule/web/controller/FooController.class
+com/thieule/web/dto/Foo.class
+com/thieule/web/dto/Bar.class
+com/thieule/config/ResourceServerWebConfig.class

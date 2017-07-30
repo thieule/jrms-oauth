@@ -1,0 +1,10 @@
+/DATA/Server/JProjects/jrms-root/jrms-employee/src/main/java/com/thieule/config/OAuth2ResourceServerConfig.java
+/DATA/Server/JProjects/jrms-root/jrms-employee/src/main/java/com/thieule/web/dto/Bar.java
+/DATA/Server/JProjects/jrms-root/jrms-employee/src/main/java/com/thieule/web/controller/UserController.java
+/DATA/Server/JProjects/jrms-root/jrms-employee/src/main/java/com/thieule/config/ResourceServerApplication.java
+/DATA/Server/JProjects/jrms-root/jrms-employee/src/main/java/com/thieule/config/CorsFilter.java
+/DATA/Server/JProjects/jrms-root/jrms-employee/src/main/java/com/thieule/web/controller/BarController.java
+/DATA/Server/JProjects/jrms-root/jrms-employee/src/main/java/com/thieule/config/ResourceServerWebConfig.java
+/DATA/Server/JProjects/jrms-root/jrms-employee/src/main/java/com/thieule/config/MethodSecurityConfig.java
+/DATA/Server/JProjects/jrms-root/jrms-employee/src/main/java/com/thieule/web/controller/FooController.java
+/DATA/Server/JProjects/jrms-root/jrms-employee/src/main/java/com/thieule/web/dto/Foo.java

@@ -1,0 +1,6 @@
+com/thieule/config/CustomPostZuulFilter.class
+com/thieule/config/CustomPostZuulFilter$1.class
+com/thieule/config/UiWebConfig.class
+com/thieule/config/CustomHttpServletRequest.class
+com/thieule/config/CustomPreZuulFilter.class
+com/thieule/config/UiApplication.class
